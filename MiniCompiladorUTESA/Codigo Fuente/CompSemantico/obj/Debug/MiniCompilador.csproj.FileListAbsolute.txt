@@ -1,0 +1,30 @@
+C:\Users\Raymond Estrella\Downloads\MiniCompilador-master\MiniCompilador-master\1 CodigoFuente\MiniCompilador\CompSemantico\obj\Debug\MiniCompilador.csproj.AssemblyReference.cache
+C:\Users\Raymond Estrella\Downloads\MiniCompilador-master\MiniCompilador-master\1 CodigoFuente\MiniCompilador\CompSemantico\obj\Debug\MiniCompilador.csproj.SuggestedBindingRedirects.cache
+C:\Users\Raymond Estrella\Downloads\MiniCompilador-master\MiniCompilador-master\1 CodigoFuente\MiniCompilador\CompSemantico\obj\Debug\CompSemantico.Properties.Resources.resources
+C:\Users\Raymond Estrella\Downloads\MiniCompilador-master\MiniCompilador-master\1 CodigoFuente\MiniCompilador\CompSemantico\obj\Debug\MiniCompilador.csproj.GenerateResource.cache
+C:\Users\Raymond Estrella\Downloads\MiniCompilador-master\MiniCompilador-master\1 CodigoFuente\MiniCompilador\CompSemantico\obj\Debug\CompSemantico.exe
+C:\Users\Raymond Estrella\Downloads\MiniCompilador-master\MiniCompilador-master\1 CodigoFuente\MiniCompilador\CompSemantico\obj\Debug\CompSemantico.pdb
+C:\Users\Raymond Estrella\Downloads\MiniCompilador-master\MiniCompilador-master\1 CodigoFuente\MiniCompilador\CompSemantico\bin\Debug\CompSemantico.exe.config
+C:\Users\Raymond Estrella\Downloads\MiniCompilador-master\MiniCompilador-master\1 CodigoFuente\MiniCompilador\CompSemantico\bin\Debug\CompSemantico.exe.manifest
+C:\Users\Raymond Estrella\Downloads\MiniCompilador-master\MiniCompilador-master\1 CodigoFuente\MiniCompilador\CompSemantico\bin\Debug\CompSemantico.application
+C:\Users\Raymond Estrella\Downloads\MiniCompilador-master\MiniCompilador-master\1 CodigoFuente\MiniCompilador\CompSemantico\bin\Debug\CompSemantico.exe
+C:\Users\Raymond Estrella\Downloads\MiniCompilador-master\MiniCompilador-master\1 CodigoFuente\MiniCompilador\CompSemantico\bin\Debug\CompSemantico.pdb
+C:\Users\Raymond Estrella\Downloads\MiniCompilador-master\MiniCompilador-master\1 CodigoFuente\MiniCompilador\CompSemantico\obj\Debug\MiniCompilador.csproj.CoreCompileInputs.cache
+C:\Users\Raymond Estrella\Downloads\MiniCompilador-master\MiniCompilador-master\1 CodigoFuente\MiniCompilador\CompSemantico\obj\Debug\CompSemantico.exe.manifest
+C:\Users\Raymond Estrella\Downloads\MiniCompilador-master\MiniCompilador-master\1 CodigoFuente\MiniCompilador\CompSemantico\obj\Debug\CompSemantico.application
+C:\Users\Raymond Estrella\Downloads\MiniCompilador-master\MiniCompilador-master\1 CodigoFuente\MiniCompilador\CompSemantico\obj\Debug\MiniCompilador.Form1.resources
+C:\Users\Raymond Estrella\Desktop\MiniCompilador - copia\CompSemantico\bin\Debug\CompSemantico.exe.config
+C:\Users\Raymond Estrella\Desktop\MiniCompilador - copia\CompSemantico\bin\Debug\CompSemantico.exe.manifest
+C:\Users\Raymond Estrella\Desktop\MiniCompilador - copia\CompSemantico\bin\Debug\CompSemantico.application
+C:\Users\Raymond Estrella\Desktop\MiniCompilador - copia\CompSemantico\bin\Debug\CompSemantico.exe
+C:\Users\Raymond Estrella\Desktop\MiniCompilador - copia\CompSemantico\bin\Debug\CompSemantico.pdb
+C:\Users\Raymond Estrella\Desktop\MiniCompilador - copia\CompSemantico\obj\Debug\MiniCompilador.csproj.AssemblyReference.cache
+C:\Users\Raymond Estrella\Desktop\MiniCompilador - copia\CompSemantico\obj\Debug\MiniCompilador.csproj.SuggestedBindingRedirects.cache
+C:\Users\Raymond Estrella\Desktop\MiniCompilador - copia\CompSemantico\obj\Debug\MiniCompilador.Form1.resources
+C:\Users\Raymond Estrella\Desktop\MiniCompilador - copia\CompSemantico\obj\Debug\CompSemantico.Properties.Resources.resources
+C:\Users\Raymond Estrella\Desktop\MiniCompilador - copia\CompSemantico\obj\Debug\MiniCompilador.csproj.GenerateResource.cache
+C:\Users\Raymond Estrella\Desktop\MiniCompilador - copia\CompSemantico\obj\Debug\MiniCompilador.csproj.CoreCompileInputs.cache
+C:\Users\Raymond Estrella\Desktop\MiniCompilador - copia\CompSemantico\obj\Debug\CompSemantico.exe.manifest
+C:\Users\Raymond Estrella\Desktop\MiniCompilador - copia\CompSemantico\obj\Debug\CompSemantico.application
+C:\Users\Raymond Estrella\Desktop\MiniCompilador - copia\CompSemantico\obj\Debug\CompSemantico.exe
+C:\Users\Raymond Estrella\Desktop\MiniCompilador - copia\CompSemantico\obj\Debug\CompSemantico.pdb
